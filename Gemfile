@@ -17,7 +17,7 @@ gem "trailblazer", "~> 2.1"
 gem "trailblazer-rails", "~> 2.4"
 
 # JWT for authentication
-gem "jwt", "~> 2.7"
+gem "jwt", "~> 3.1"
 
 # UUID generation
 gem "securerandom"
